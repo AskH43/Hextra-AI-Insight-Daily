@@ -3,81 +3,170 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-24
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2026-02/2026-02-24
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2026/2/25
 
-> AI News | Daily Brief | All-Network Data Aggregation | Cutting-Edge Scientific Exploration | Industry Free Expression | Open Source Innovation Power | AI and Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2026/2/25
 
-### **Today's Digest**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+### **今日摘要**
 
 ```
-Qianxun Intelligence raises 2 billion, valuation exceeds 10 billion, embodied AI enters year one of mass production.
-Samsung S26 integrates Perplexity search AI, ushering in multi-agent era for mobile phones.
-ROCKET framework achieves 98.5% win rate with only 4% compute, Cambridge proposes new paradigm for visual planning.
-Claude Code refactors COBOL systems causing IBM market cap to evaporate 13% in one day.
-HF, Cloudflare open-source agent frameworks, context engineering project gains 8.9k stars.
+Qwen3.5发布四款中量级模型，35B超越前代235B
+Claude Code支持手机远程控制，IBM因COBOL重构股价暴跌13%
+国产模型占OpenRouter六成份额，Anthropic指控多家蒸馏
+Meta砸千亿买AMD芯片，OpenAI支出预期腰斩至六千亿
+微软玻璃存储万年4.8TB，FARS系统228小时自动产百篇论文
 ```
 
-### Product and Feature Updates
+### 产品与功能更新
 
-1.  **Qianxun Intelligence bags 2 billion funding.**
-    Qianxun Intelligence kicks off the year with a bang 🚀, securing a whopping **2 billion RMB** in funding. Its valuation has already soared past the **10 billion RMB mark**! 💸 Their Small Mo robot is now deeply integrated into **CATL's** production lines, a clear sign that **embodied AI** has officially entered its mass production year one. This is definitely one to watch 👀. [View Funding Details (AI News)](https://www.qbitai.com/2026/02/381766.html)<br/>
-    ![AI News: Qianxun Intelligence's Small Mo Robot Performing Inspection Tasks on CATL Battery Production Line](https://i.qbitai.com/wp-content/uploads/2026/02/12ef737b2ef5b777786c30737784a8e9.webp)<br/>
+1. **阿里Qwen3.5中量级模型全系发布。**
+Qwen3.5系列🚀四款模型同时首发。**35B小模型**(✧∀✧)竟反超前代[235B巨兽(AI资讯)](https://huggingface.co/collections/Qwen/qwen35)。**Flash版**默认支持💡百万级长文本。RL和数据质量🔥比堆参数[更加给力(AI资讯)](https://modelscope.cn/collections/Qwen/Qwen35)。去[Qwen Chat(AI资讯)](https://chat.qwen.ai/?models=qwen3.5-flash)直接体验。
+<br/>![AI资讯：Qwen3.5系列模型性能对比图展示中量级模型超越大参数模型的进化路径](https://source.hubtoday.app/images/2026/02/news_01kj983vate8jr5abfekwvc9jh.avif)<br/>
 
-2.  **Samsung S26 deeply integrates Perplexity.**
-    The Samsung Galaxy S26 just dropped a bombshell 🚀: it's set to deeply integrate **Perplexity** search AI! What's wild is that this AI can even tap into **system-level permissions**! 🤯 This officially ushers in the era of **multi-agent** coexistence on mobile devices. 📱 [Read Full Disclosure (AI News)](https://www.aibase.com/zh/news/25608) This is huge news! ✨<br/>
-    ![AI News: Samsung Galaxy S26 Phone Interface Showing Deep Integration of Perplexity for Multi-Agent Interaction](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/201811151709169404_15.jpg)<br/>
+1. **Claude Code上线手机远程控制。**
+**Claude Code**🚀重磅更新(✧∀✧)太酷了。终端任务能用[手机远程操控(AI资讯)](https://claude.ai/code)。走路开会也能💡盯着代码跑。AI在你电脑上🔥后台**疯狂搬砖**。随时随地掌控编码全流程。
+1. **Perplexity与Comet语音模式升级。**
+**新版语音**🚀今天已向全体用户上线。**Comet**能直接(✧∀✧)读懂你的屏幕。跨标签切换💡[上下文完全不断(AI资讯)](https://x.com/perplexity_ai/status/2026389166049865751)。语音交互丝滑到🔥让人起鸡皮疙瘩。大家现在就能开启对话。
+1. **Claude企业级Cowork功能发布。**
+Claude推出🚀**Cowork新功能**助力团队协作。企业可(✧∀✧)深度[定制AI工作流(AI资讯)](https://x.com/claudeai/status/2026305186671608315)。插件体系⚡️迎来**重磅升级**。生产力工具🔥又进化了一大步。每个团队都能拥有专属Claude。
+1. **Spotify AI歌单多国上线。**
+🚀**Spotify**在多国正式上线[AI提示词歌单(AI资讯)](https://www.aibase.com/zh/news/25639)。**自然语言**即可(✧∀✧)秒出私人BGM。模糊记忆也能🔥**精准解析**成曲目。用户可随意追加提示词调教结果。音乐发现💡正式进入对话时代。
 
-### Cutting-Edge Research
+1. **Google Labs官宣收编ProducerAI。**
+谷歌🚀正式将[ProducerAI纳入实验室(AI资讯)](https://x.com/GoogleDeepMind/status/2026296347020677376)。用户(✧∀✧)喜提AI**作曲神器**。从歌词到旋律💡创作门槛大幅降低。巨头🎹加速抢占🔥**生成式音乐**赛道。想象力即将变成动态音轨。
 
-1.  **ROCKET framework wins with 4% compute.**
-    The University of Maryland just launched its [ROCKET Framework (AI News)](https://arxiv.org/abs/2602.17951)! 🚀 This bad boy uses **residual alignment** tech to boost 3D perception, grabbing an insane **98.5% win rate** with only **4% of the compute**! 💪 It's tackling the tough problem of **VLA model** spatial understanding head-on. 🧠 The [Open Source Code (AI News)](https://github.com/CASE-Lab-UMD/ROCKET-VLA) is already out there! 💻<br/>
-    ![AI News: ROCKET Model Significantly Improves Robot Grasping Precision Through Multi-layer Residual Alignment Flowchart](https://arxiv.org/abs/2602.17951/image.png)<br/>
+1. **CastFox用Gemma 3n重塑播客体验。**
+**CastFox**🚀联手谷歌[Gemma 3n(AI资讯)](https://x.com/googleaidevs/status/2026344712764813626)赋能播客。音频也能(✧∀✧)实现**对话互动**。**语义搜索**帮你💡不遗漏关键细节。**智能高光**🔥自动摘取精华片段。播客体验变得很不一样。
+### 前沿研究
 
-2.  **Visual planning lets AI think with images.**
-    A team from Cambridge just dropped a pure **image sequence** planning paradigm! 🧠 This means AI can now reason not just with text, but with visuals! 🖼️ They trained it using **GRPO reinforcement learning**, and the results are mind-blowing! 🤯 It totally smokes text-only solutions in **maze navigation** tasks. [Read Paper (AI News)](https://arxiv.org/abs/2505.11409) Get ready for a paradigm shift! ✨<br/>
-    ![AI News: Researchers Demonstrate AI's Maze Path Planning and Reasoning Process Using Sequential Image Sequences](https://ar5iv.labs.arxiv.org/html/2505.11409/assets/x1.png)<br/>
+1. **字节Seed用化学思维重构大模型推理。**
+字节Seed🚀把**推理脑回路**拆成(✧∀✧)分子结构。共价键管逻辑，氢键搞**自我反思**。[思维拓扑论文(AI资讯)](https://arxiv.org/abs/2601.06002)🔥揭秘真相。普通模型靠**MoLE-Syn**也能变身学霸。新工具让强化学习训练超稳。
+1. **FARS全自动科研流水线228小时产百篇论文。**
+FARS系统狂飙(✧∀✧)两百小时不停歇。[查看直播(AI资讯)](https://analemma.ai/fars)百篇论文🚀震惊全场。狂烧**114亿Token**成本约十万刀。**平均分5.05**🔥稳超人类投稿均值。科研装配线时代确实来了。
+1. **微软Nature成果：玻璃存储万年不朽。**
+微软把人类文明🚀刻在**石英玻璃**里。一块小玻璃(✧∀✧)能存🔥**4.8TB**数据。[论文详情(AI资讯)](https://www.nature.com/articles/s41586-025-10042-w)用机器学习解码串扰。数据能稳存**一万年**💡太绝了。这是对存储介质的革命。
+1. **MIT让生成式3D设计真正可制造。**
+MIT推出🔥**PhysiOpt**框架太硬核。让生成式3D(✧∀✧)真正[可打印(AI资讯)](https://dl.acm.org/doi/10.1145/3757377.3763884)。物理仿真直接在**潜空间**里优化。打印出的杯子桌子🚀贼稳当。语义保持与计算效率💡兼得。
+1. **能量溢出法无需训练即可检测LLM幻觉。**
+**LLM分类器**🚀被重新解读为[能量模型(AI资讯)](https://arxiv.org/abs/2602.18671)。靠追踪**能量溢出**💡精准抓幻觉。全程(✧∀✧)**无需额外训练**直接纠错。在**LLaMA**和**Qwen3**🔥上表现超强。两个训练零成本指标就搞定。
 
-### Industry Outlook & Social Impact
+1. **JAEGER赋予模型3D音视定位能力。**
+[JAEGER框架(AI资讯)](https://arxiv.org/abs/2602.18527)🚀打破2D感知局限。核心**Neural IV**(✧∀✧)声源定位极准。融合**RGB-D**与多通道🔥空间音频。在复杂3D环境💡推理表现强悍。发布**6.1万条**训练数据集。
 
-1.  **Claude Code tackles COBOL, hitting IBM hard.**
-    Anthropic's newly released **Claude Code** is seriously showing off! 💻 It's automating the refactoring of ancient **COBOL** systems, totally blowing the industry's mind! 🤯 The blue giant, **IBM's market cap**, evaporated a stunning **13%** overnight, marking its biggest single-day plunge since the **millennium**! 📉 [View Detailed Report (AI News)](https://www.aibase.com/zh/news/25611) Feel the shockwaves! 🌊<br/>
-    ![AI News: Claude Code Automation Tool Precisely Refactoring Legacy COBOL Codebase Interface Display](https://autoproxy.justlikemaki.vip/?pp=https://pic.chinaz.com/picmap/202310180948538535_0.jpg)<br/>
+1. **Luna-2：小模型单Token评测降本80倍。**
+**Luna-2**🚀用小模型代替[昂贵大模型评测(AI资讯)](https://arxiv.org/abs/2602.18583)。成本直接(✧∀✧)怒降**80倍**。延迟🔥压缩**20倍**太猛了。每月处理超**千亿Token**💡稳如磐石。年省**三千万美金**真香。
 
-### Top Open Source Projects
+1. **DACo具身导航框架解耦规划与执行。**
+具身智能🚀迎来[DACo新框架(AI资讯)](https://arxiv.org/abs/2602.18941)登场。解耦**全局规划**与**局部执行**(✧∀✧)拒绝过载。**零样本**指标🔥暴涨6.5%适配性强。兼容GPT-4o等💡多种大模型骨干。[项目源码(AI资讯)](https://github.com/ChocoWu/DACo)已开放。
 
-1.  **HuggingFace launches Agent Skills library.**
-    HuggingFace's open-source [Skills Project (AI News)](https://github.com/huggingface/skills) has already racked up ⭐3.8k stars! 🚀 This project makes **modular skills** super easy to plug and play 🔌, simplifying how **large models** call external tools. 🛠️ Developers can now whip up **agents** with ease! 👩‍💻<br/>
-    ![AI News: HuggingFace Open Source Skills Project Displaying Modular Skill Library Architecture Design](https://opengraph.githubassets.com/1/huggingface/skills)<br/>
+1. **MAS-FIRE发布多智能体可靠性评估框架。**
+研究者🚀发布了[多智能体故障注入工具(AI资讯)](https://arxiv.org/abs/2602.19843)。定义了**15种故障**(✧∀✧)覆盖认知协作。实验发现🔥模型更强不等于**系统更稳**。**闭环拓扑**能抵消💡四成致命故障。为Agent系统工程化提供关键评估。
 
-2.  **Cloudflare open-sources Agent framework.**
-    Cloudflare just made a splash 🌊, open-sourcing its [Agents Framework (AI News)](https://github.com/cloudflare/agents), already hitting ⭐4k stars! This baby empowers developers to rapidly **deploy AI agents**. ⚙️ Paired with their global **edge network**, the performance is unbeatable. ⚡ In the TypeScript ecosystem, it's super convenient to get things live with just one click! ✨<br/>
-    ![AI News: Cloudflare Edge Server Network Collaborating to Run AI Agent Architecture Concept Map](https://www.cloudflare.com/img/logo-cloudflare-dark.svg)<br/>
+1. **SABER：BEV检测器3D对抗攻击框架。**
+SABER🔥能生成**3D通用对抗物体**。狠戳[BEV检测器(AI资讯)](https://arxiv.org/abs/2505.22499)脆弱性。实现(✧∀✧)超强的**多视角**时间一致性。揭示模型🚀对上下文的过度依赖。重塑自动驾驶💡安全评估新范式。
 
-3.  **Context Engineering Skills set is heating up.**
-    This awesome [Context Engineering Project (AI News)](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) has already earned ⭐8.9k stars! ✨ It's designed to specifically tackle memory loss in **multi-agent** architectures. Developers can now quickly handle **production-level** debugging and optimization 👷, waving goodbye to those pesky **hallucination problems** caused by context loss! 👋<br/>
-    ![AI News: Agent-Skills Project Displaying Context Management and Multi-Agent Collaboration Architecture Design Diagram](https://opengraph.githubassets.com/1/muratcankoylan/Agent-Skills-for-Context-Engineering)<br/>
+### 行业展望与社会影响
 
-### Social Media Share
+1. **Grok挺进五角大楼替换Anthropic。**
+马斯克xAI🚀已和五角大楼签署协议。**Grok**挺进美军(✧∀✧)机密系统。**Anthropic**因拒绝监控🔥面临[被制裁(AI资讯)](https://www.aibase.com/zh/news/25625)风险。Gemini与ChatGPT⚡️也在加速入场。军方要求**全用途标准**铁了心执行。
 
-1.  **Concept Influence attribution 20x faster.**
-    Model attribution just hit a major breakthrough! 🔬 This tech is **20 times faster** than traditional methods, and can boost **safety by 3 times** using just **5% of the data**! 🔒 [Read Paper (AI News)](https://arxiv.org/abs/2602.14869) to demystify the black box. 🕵️‍♀️ More details are available on the [Official Blog (AI News)](https://www.far.ai/news/concept-data-attribution-02-2026).<br/>
-    ![AI News: Concept Influence Technology Visualizing Model Attribution Process Through Probe-Mapped Data](https://www.far.ai/static/images/concept-data-attribution-02-2026/main.png)<br/>
+1. **Anthropic启动3800亿估值员工回购。**
+独角兽🚀豪掷**六十亿**现金回购股权。**3800亿美金**估值(✧∀✧)太吓人了。由[此详情(AI资讯)](https://www.aibase.com/zh/news/25627)员工变现自由。顶级🔥**AI人才**财务自由不是梦。模型圈格局正在大震荡。
 
-2.  **COBOL fortress breach sparks debate.**
-    Baoyu shared some hot news: Anthropic is rolling out a **COBOL automation** tool! 🔥 This means AI is shattering traditional IT's toughest **fortress**. 🏰💥 In response, **IBM's stock** plummeted a shocking **13%** 📉, marking its most brutal single-day drop since **2000**. [View Original Post (AI News)](https://x.com/dotey/status/2026045991007248556) The comment section is absolutely blowing up! 💬🔥<br/>
-    ![AI News: Tweet Showing IBM Stock Plunge Chart After Anthropic COBOL Tool Release](https://pbs.twimg.com/media/HB3ztI2XMAACTke?format=jpg&name=orig)<br/>
+1. **Claude Code攻克COBOL致IBM暴跌13%。**
+🚀**Anthropic**出狠招重构旧代码。**Claude Code**🔥自动化改造[COBOL系统(AI资讯)](https://www.aibase.com/zh/news/25611)。**IBM**股价(✧∀✧)应声暴跌创单日最大跌幅。95%的ATM交易底层被AI盯上。传统IT巨头💡正面临生存危机。
+<br/>![AI资讯：Anthropic发布的Claude Code工具正在自动化重构老旧COBOL代码系统](https://source.hubtoday.app/images/2026/02/news_01kj983xk2e8jr5abk1c29j23e.avif)<br/>
+
+1. **国产大模型霸榜OpenRouter份额破六成。**
+国产模型🚀在[OpenRouter(AI资讯)](https://www.aibase.com/zh/news/25635)份额高达**61%**。**MiniMax M2.5**(✧∀✧)空降榜首霸气包圆前三。**编程**与**智能体**成🔥核心战场。价格仅为海外旗舰💡十六分之一。国产力量正在横扫全球开发者生态。
+
+1. **OpenAI将支出预期从1.4万亿降至6000亿。**
+**万亿预算**🚀规模直接腰斩到[六千亿(AI资讯)](https://newshacker.me/story?id=47140623)。奥特曼澄清(✧∀✧)那是**八年期**承诺。众口质疑**2030年两千八百亿营收**🔥太离谱。**GPU和电力**产能瓶颈💡根本跟不上。供应链与信贷已出现错配风险。
+
+1. **荣耀首款人形机器人将亮相MWC2026。**
+荣耀首款**人形机器人**要🚀亮相[MWC(AI资讯)](https://www.aibase.com/zh/news/25636)大会。瞄准**家庭陪护**(✧∀✧)做贴心助手。五年狂砸**百亿美金**🔥真的够狠。奔跑速度**4m/s**比Atlas还猛。手机巨头正跨界💡**具身智能**赛道。
+
+1. **千寻智能融资20亿估值破百亿。**
+具身巨头**千寻智能**(✧∀✧)狂揽20亿融资。**Spirit v1.5**🚀模型[反超Pi0.5(AI资讯)](https://www.jiqizhixin.com/articles/2026-02-24-3)全球领先。数据采集成本降低**90%**🔥太猛了。**宁德时代**产线已实现💡零故障量产。估值暴涨正式跻身百亿俱乐部。
+1. **OpenAI与领英验证卷入监控争议。**
+[调查报告(AI资讯)](https://newshacker.me/story?id=47140632)😱曝光身份监控链条。领英验证流程引发🚀**隐私危机**。个人数据(✧∀✧)被供应商**长期留存**。验证账号沦为🔥**AI垃圾信息**温床。权力网络正在深度渗透。
+
+1. **Cloudflare用AI一周重写Next.js仅花$1100。**
+CF🚀用**AI**一周重构(✧∀✧)[Next.js框架(AI资讯)](https://newshacker.me/story?id=47142156)。总共只花**$1100**的Token🔥太便宜了。⚡**Vite**核心让构建性能💡炸裂提升。但引发了严重的**供应商锁定**担忧。开源生态可能🚀面临洗牌。
+
+1. **arXiv投稿翻倍疑由LLM驱动。**
+arXiv的**hep-th分区**投稿量🚀翻了一倍。专家怀疑🤖**LLM滥用**制造[学术噪声(AI资讯)](https://newshacker.me/story?id=47143211)。(✧∀✧)发论文这件事的稀缺性被摧毁。治理需要**贝叶斯过滤**🔥来应对灌水。学术评价体系💡正面临信用崩塌。
+
+1. **微软紧急警告OpenClaw存在严重安全漏洞。**
+微软🔥紧急警告**OpenClaw**助手有风险。严禁在🚀[企业工作站(AI资讯)](https://www.aibase.com/zh/news/25626)运行。该工具存在(✧∀✧)**提示注入**攻击面。已有🔥**五万实例**爆出远程代码执行漏洞。必须将其隔离在💡**独立沙箱**环境。
+<br/>![AI资讯：在深蓝科技感背景下冷峻的AI机器人头部特写暗示安全风险](https://source.hubtoday.app/images/2026/02/news_01kj9841gqe8jr5abs7vrx3v2n.avif)<br/>
+
+1. **Meta斥资千亿美金狂买AMD芯片。**
+Meta狂砸**1000亿美金**🚀买AMD芯片。为了**个人超级智能**(✧∀✧)彻底拼了。苏妈和扎克伯格🤝联手[搞大事(AI资讯)](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/)🔥。算力霸权之战💡彻底打响。全球GPU格局正在被重塑。
+<br/>![AI资讯：Meta联手AMD采购千亿级芯片订单的新闻配图](https://source.hubtoday.app/images/2026/02/news_01kj9845j6e8jr5ac25m5ydmkm.avif)<br/>
+
+### 开源TOP项目
+
+1. **Qwen3-Coder-Next登顶Unsloth下载榜。**
+🚀**Qwen3-Coder-Next**在[Unsloth(AI资讯)](https://x.com/Alibaba_Qwen/status/2026194793655898213)火得离谱。**80B**超大模型竟然在(✧∀✧)**36GB**设备流畅跑。配合**Claude Code**本地开发🔥真的省钱。GGUF量化技术💡让开发者集体起立。这波优化太给力了。
+<br/>![AI资讯：展示Qwen3-Coder模型在Unsloth平台极高下载热度与本地36GB运行配置](https://source.hubtoday.app/images/2026/02/news_01kj984bhpe8jr5acdgmh2j7f8.avif)<br/>
+
+1. **PersonaLive实时肖像驱动开源。**
+GVCLab🚀发布了[PersonaLive(AI资讯)](https://github.com/GVCLab/PersonaLive)源码(⭐1.9k)。仅需一张照片📸即可(✧∀✧)生成灵动视频。**实时人物驱动**🔥效果极佳。运行速度⚡表现惊人。数字人技术门槛💡大幅降低。
+
+1. **Hugging Face推出skills智能体技能库。**
+HF🔥推出[skills技能库(AI资讯)](https://github.com/huggingface/skills)(⭐5.2k)。让AI🤖快速(✧∀✧)掌握**工具调用**。开发逻辑🛠️极其简洁。智能体生态💡又添核心组件。降低Agent开发门槛🚀意义重大。
+
+1. **Scrapling爬虫工具GitHub爆火。**
+**Scrapling**(⭐12.5k)🚀日增近[两千Stars(AI资讯)](https://github.com/D4Vinci/Scrapling)。它的速度(✧∀✧)简直冒烟。**绕过检测**⚡采集核心语料。AI训练🔥数据工程必备神器。低门槛大规模采集💡就靠它了。
+
+1. **Flux.2 Klein 9B低显存工作流发布。**
+**Flux.2模型**适配🚀低显存[GGUF方案(AI资讯)](https://old.reddit.com/r/FluxAI/comments/1rdkt98/i_created_simple_flux2_klein_9b_gguf_low_vram/)。采用压缩格式(✧∀✧)效果惊人。显存不够🔥也能跑**9B模型**。本地部署玩家💡有福了。社区分享了完整工作流教程。
+
+1. **ruvector极简Rust向量检索库。**
+🚀[ruvector(AI资讯)](https://github.com/ruvnet/ruvector)(⭐714)用Rust写的极简方案。大幅加速(✧∀✧)**向量计算**效率。📦极简设计解决🔥配置难痛点。开发者轻松搞定💡**向量化检索**。RAG应用底座又多一选择。
+
+### 社媒分享
+
+1. **Anthropic与五角大楼秘密谈判内幕曝光。**
+**Anthropic**正在与五角大楼🤝激烈交锋。这场🔥**生存博弈**(✧∀✧)关乎全球局势。Claude在🛡️**国防领域**守住伦理底线。[The Verge独家报道(AI资讯)](https://www.reddit.com/r/artificial/comments/1rdte1c/inside_anthropics_existential_negotiations_with/)揭秘内幕。马斯克xAI正在🚀虎视眈眈。
+<br/>![AI资讯：Anthropic公司与美国五角大楼标志的新闻复合配图](https://source.hubtoday.app/images/2026/02/news_01kj984dkte8jr5acqzmj1dg95.avif)<br/>
+
+1. **OpenAI宣布废弃SWE-bench Verified基准。**
+🚀OpenAI弃用[SWE-bench标准(AI资讯)](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)。审计(✧∀✧)曝出**测试用例设计缺陷**。核心模型🔥依赖**训练记忆**刷分非推理。推荐转向💡更严格的**Pro版**基准。重塑大模型代码能力评估体系。
+<br/>![AI资讯：OpenAI展示关于SWE-bench任务失败原因分析及测试缺陷的统计图表](https://source.hubtoday.app/images/2026/02/news_01kj98591qe8jr5acvrsv7qyxw.avif)<br/>
+
+1. **AI危机推演雄文重创美股暴跌800点。**
+一篇[推演文章(AI资讯)](https://www.citriniresearch.com/p/2028gic)🚀把市场砸出大坑。**幽灵GDP**让机器(✧∀✧)只产出不消费。白领**结构性失业**🔥正在搞垮内需。**信贷体系**稳健假设正在崩塌💡。人类智识**不再稀缺**这个逻辑得重写。
+<br/>![AI资讯：深度推演AI全面胜利后对人类经济秩序冲击的分析配图](https://source.hubtoday.app/images/2026/02/news_01kj985e5ze8jr5ad2gd4ry8z3.avif)<br/>
+
+1. **Anthropic指控国产大模型工业级蒸馏。**
+Anthropic🔥[控诉中国模型(AI资讯)](https://x.com/shao__meng/status/2026265855160644078)非法洗数据。**MiniMax**🚀竟被指蒸馏最多(✧∀✧)。涉嫌创建**2.4万欺诈账号**调用💡1600万次。网友调侃：这是给国产模型做背书。GLM表示：那我呢🔥我就完全没蒸馏？
+
+1. **前Cursor核心加盟OpenAI Codex团队。**
+顶级🚀大牛从Cursor加盟[OpenAI(AI资讯)](https://x.com/gdb/status/2026144423793582156)新团队。提出(✧∀✧)**ADE代理开发环境**概念。工具进化🔥从IDE迈向智能体编排。未来不是更好的编辑器💡而是系统。Greg Brockman亲自欢迎。
+1. **CLI或成AI智能体交互最佳路径。**
+**命令行界面**竟然是🚀[智能体的最佳搭档(AI资讯)](https://x.com/omarsar0/status/2026367346625982782)。大神卡帕斯高度🔥评价**CLI原生性**。智能体(✧∀✧)通过**终端工具箱**灵活组合。仅靠文件与CLI💡就能操控一切。不要小看这个重塑交互的趋势。
+<br/>![AI资讯：展示AI智能体通过命令行界面安装并运行Polymarket工具的终端截图](https://source.hubtoday.app/images/2026/02/news_01kj985n0ve8jr5ad8hjq7v0cz.avif)<br/>
+
+1. **Simon发布智能体工程模式指南。**
+@simonw大佬🚀发布[工程模式指南(AI资讯)](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)。以后**写代码**超便宜(✧∀✧)几乎零成本。用**红绿TDD**🔥约束Agent幻觉。琐碎小事丢给**异步代理**💡自动完成。跨越感性编程迈向工程化时代。
+<br/>![AI资讯：代码编辑器中AI通过红绿TDD模式生成Python函数的工程化流程界面](https://source.hubtoday.app/images/2026/02/news_01kj986bhne8jr5adjn7h5k082.avif)<br/>
+
+1. **国内大模型三维实力深度PK。**
+**字节跳动**在🚀AI赛道表现(✧∀✧)无可争议。[详解国内格局(AI资讯)](https://m.okjike.com/originalPosts/699e0fb
 
 ---
 
-## **AI News Daily Multi-Channel**
+## **AI资讯日报多渠道**
 
-| 💬 **WeChat Official Account** | 📹 **Douyin** |
+| 💬 **微信公众号** | 📹 **抖音** |
 | --- | --- |
-| Official Account: Hexi 2077 | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![WeChat Official Account](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![Intel Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| 公众号：何夕2077  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![微信公众号](https://source.hubtoday.app/logo/wechatgzh_20260218215501_244.jpg) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
