@@ -4,7 +4,7 @@ type: blog
 cascade:
   type: blog
 sidebar:
-  exclude: true
+  exclude: false
 ---
 
 
